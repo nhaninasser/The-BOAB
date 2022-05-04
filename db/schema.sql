@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS the_boab;
+
+CREATE DATABASE the_boab;
