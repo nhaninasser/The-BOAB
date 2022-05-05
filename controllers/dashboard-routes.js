@@ -70,4 +70,4 @@ router.get('/edit-post/:id', withAuth, (req, res) => {
 
 })
 
-module.exports = router; 
+module.exports = router;
